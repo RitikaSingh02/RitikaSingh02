@@ -31,4 +31,6 @@
 
 
 
-![Ritika's github stats](https://github-readme-stats.vercel.app/api?username=RitikaSingh02&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ritika's github stats](https://github-readme-stats.vercel.app/api?username=RitikaSingh02&show_icons=true&theme=radical&line_height=27)
+
+![Ritika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaSingh02&hide=css,java,html&theme=radical)
