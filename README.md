@@ -1,19 +1,8 @@
-## HI I'M RITIKA <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-
->DJANGO DEVELOPER!
-
->>```DRF is the beginning!!!```
-
+![Hi, I'm RITIKA 👋 I'm a 🚀 DJANGO developer 🚀 I ❤️ REST ❤️](https://github.com/RitikaSingh02/RitikaSingh02/raw/master/assets/RitikaSingh02.gif)
 
 ### REACH ME OUT!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-RitikaSingh-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-singh-416544191/)
-
-
-<img src="https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=600/api/page/4851104629129216/image/download/6004017934106624.gif" width="100%" height="240" />
-
-
 
 
 ### TECH I HAVE WORKED/WORKING ON 
