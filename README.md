@@ -17,13 +17,13 @@
 [![Expressjs Badge](https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00)](#) 
 [![Angularjs Badge](https://img.shields.io/badge/-angularjs-722F37?style=for-the-badge&labelColor=black&logo=angularjs&logoColor=722F37)](#)
 
-### ⚡ I'M CURRENTLY LEARNING
+⚡ I'M CURRENTLY LEARNING
 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=007acc)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 <br><br>
-<h3> ⚡ GitHub Stats<br>
+⚡ GitHub Stats<br>
 
 ![Ritika's github stats](https://github-readme-stats.vercel.app/api?username=RitikaSingh02&show_icons=true&theme=radical&line_height=27)
 
