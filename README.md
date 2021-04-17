@@ -9,8 +9,8 @@
 [![GMAIL Badge](https://img.shields.io/badge/-RitikaSingh-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](ritika2002singh@gmail.com)
 
 
-<br>
-### ⚡ TECH I HAVE WORKED/WORKING ON 
+<br><br>
+⚡ TECH I HAVE WORKED/WORKING ON 
 
 
 [![DJANGO BADGE](https://img.shields.io/badge/-django-8db600?style=for-the-badge&labelColor=black&logo=django&logoColor=8db600)](#)[![DRF](https://img.shields.io/badge/-djangorestframework-ADD8E6?style=for-the-badge&labelColor=black&logo=djangorestframework&logoColor=8db600)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PYTHON Badge](https://img.shields.io/badge/-python-ADD8E6?style=for-the-badge&labelColor=black&logo=python&logoColor=ADD8E6F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
