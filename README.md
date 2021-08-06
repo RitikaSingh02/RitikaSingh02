@@ -12,8 +12,7 @@
 <h2>👩🏻‍💻 Tech I Have Worked/Working On </h2>
 
 
-[![DJANGO BADGE](https://img.shields.io/badge/-django-8db600?style=for-the-badge&labelColor=black&logo=django&logoColor=8db600)](#)[![DRF](https://img.shields.io/badge/-djangorestframework-ADD8E6?style=for-the-badge&labelColor=black&logo=djangorestframework&logoColor=8db600)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PYTHON Badge](https://img.shields.io/badge/-python-ADD8E6?style=for-the-badge&labelColor=black&logo=python&logoColor=ADD8E6F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Expressjs Badge](https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00)](#) 
+[![DJANGO BADGE](https://img.shields.io/badge/-django-8db600?style=for-the-badge&labelColor=black&logo=django&logoColor=8db600)](#)[![DRF](https://img.shields.io/badge/-djangorestframework-ADD8E6?style=for-the-badge&labelColor=black&logo=djangorestframework&logoColor=8db600)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)[![Expressjs Badge](https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00)](#)[![Flask](https://img.shields.io/badge/-flask-white?style=for-the-badge&labelColor=black&logo=flask&logoColor=ADD8E6F)](#) [![mongodb](https://img.shields.io/badge/-mongodb-008000?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=ADD8E6F)](#) 
 
 <h2>👩🏻‍💻 I'm Currently Learning</h2>
 
